@@ -1,18 +1,16 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
-# Bitcoin Ticker 🤑
+# Bitcoin Ticker
+![Screenshots](https://github.com/Bytepie/bitcoin-ticker-flutter/blob/master/bitcoin.png)
 
 ## Our Goal
 
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
+The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.[Alternate API used](https://www.blockchain.com/api/exchange_rates_api "BlockChain Exchange API")
 
 
 ## What you will create
 
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
+We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move! The original API for ticker in the tutorial is not available anymore as free. So I used bit
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished App](https://github.com/Bytepie/bitcoin-ticker-flutter/blob/master/screenshot.gif)
 
 ## What you will learn
 
@@ -24,5 +22,3 @@ We’re going to make a crypto currency price checking app. By the end of the mo
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
