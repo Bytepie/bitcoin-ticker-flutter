@@ -1,6 +1,5 @@
 # Bitcoin Ticker
-![Screenshots](https://github.com/Bytepie/bitcoin-ticker-flutter/blob/master/bitcoin.png)
-
+<img width="600" alt="UI flow" src="https://github.com/Bytepie/bitcoin-ticker-flutter/blob/master/bitcoin.png">
 ## Our Goal
 
 The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
